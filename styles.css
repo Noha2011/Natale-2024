@@ -4,6 +4,10 @@ h1 {
     color: red;
 }
 
+img {
+    width: 100%;
+}
+
 #slider{
 	margin: 0 33.3333333%;
 	padding:0;
